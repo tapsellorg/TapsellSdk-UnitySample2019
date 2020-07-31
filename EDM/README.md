@@ -1,6 +1,6 @@
 # Unity 2019 Sample
 
-# How:
+### How:
 1. Add google ScopedRegisteries to manifest.json of your project:
 
 ```
