@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: Tapsell
-  productName: Tapsell Unity Sample
+  productName: TapsellSdk Unity 2019(EDM)
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -165,7 +165,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: ir.tapsell.sample.unity
+    Android: ir.tapsell.unity.sample.androidemd2019
     Standalone: unity.DefaultCompany.TapsellVideo
     Tizen: ir.tapsell.unitysamplev3
     iPhone: ir.tapsell.unitysamplev3
