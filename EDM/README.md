@@ -1,4 +1,5 @@
 # Unity 2019 Sample
+TapsellSdk sample for unity 2019
 
 ### How:
 1. Add google ScopedRegisteries to manifest.json of your project:
