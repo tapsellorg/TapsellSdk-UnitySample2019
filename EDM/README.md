@@ -15,7 +15,7 @@ TapsellSdk sample for unity 2019
       ]
     ```
 
-2. Add TapsellSdk-UnityPlugin:
+2. Add TapsellSdk-UnityPlugin:  
     in unity goto Window > Package Manager. Click (+) Sign, from dropdown menu select Add package from git URL.
     put https://github.com/tapsellorg/TapsellSdk-UnityPlugin.git in input field and click add.
 
