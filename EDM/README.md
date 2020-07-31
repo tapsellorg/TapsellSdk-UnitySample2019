@@ -20,6 +20,6 @@ TapsellSdk sample for unity 2019
     put https://github.com/tapsellorg/TapsellSdk-UnityPlugin.git in input field and click add.
 
 
-3. In unity switch to Android platform.
+3. switch to Android platform.
 
-4. In Unity goto Assets > External Dependency Manager > Android Resolver > Resolve(Force Resolve).
+4. goto Assets > External Dependency Manager > Android Resolver > Resolve(Force Resolve).
