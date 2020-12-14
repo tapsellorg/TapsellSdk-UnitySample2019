@@ -1,17 +1,15 @@
 <dependencies>
   <packages>
-    <package>androidx.appcompat:appcompat:1.0.2</package>
-    <package>ir.tapsell.sdk:tapsell-sdk-unity:4.5.0</package>
+    <package>ir.tapsell.sdk:tapsell-sdk-unity:4.6.2</package>
   </packages>
   <files>
     <file>Assets/Plugins/Android/androidx.annotation.annotation-1.0.0.jar</file>
-    <file>Assets/Plugins/Android/androidx.appcompat.appcompat-1.0.2.aar</file>
     <file>Assets/Plugins/Android/androidx.arch.core.core-common-2.0.0.jar</file>
     <file>Assets/Plugins/Android/androidx.arch.core.core-runtime-2.0.0.aar</file>
     <file>Assets/Plugins/Android/androidx.asynclayoutinflater.asynclayoutinflater-1.0.0.aar</file>
     <file>Assets/Plugins/Android/androidx.collection.collection-1.0.0.jar</file>
     <file>Assets/Plugins/Android/androidx.coordinatorlayout.coordinatorlayout-1.0.0.aar</file>
-    <file>Assets/Plugins/Android/androidx.core.core-1.0.1.aar</file>
+    <file>Assets/Plugins/Android/androidx.core.core-1.0.0.aar</file>
     <file>Assets/Plugins/Android/androidx.cursoradapter.cursoradapter-1.0.0.aar</file>
     <file>Assets/Plugins/Android/androidx.customview.customview-1.0.0.aar</file>
     <file>Assets/Plugins/Android/androidx.documentfile.documentfile-1.0.0.aar</file>
@@ -31,7 +29,7 @@
     <file>Assets/Plugins/Android/androidx.print.print-1.0.0.aar</file>
     <file>Assets/Plugins/Android/androidx.slidingpanelayout.slidingpanelayout-1.0.0.aar</file>
     <file>Assets/Plugins/Android/androidx.swiperefreshlayout.swiperefreshlayout-1.0.0.aar</file>
-    <file>Assets/Plugins/Android/androidx.vectordrawable.vectordrawable-1.0.1.aar</file>
+    <file>Assets/Plugins/Android/androidx.vectordrawable.vectordrawable-1.0.0.aar</file>
     <file>Assets/Plugins/Android/androidx.vectordrawable.vectordrawable-animated-1.0.0.aar</file>
     <file>Assets/Plugins/Android/androidx.versionedparcelable.versionedparcelable-1.0.0.aar</file>
     <file>Assets/Plugins/Android/androidx.viewpager.viewpager-1.0.0.aar</file>
@@ -48,13 +46,14 @@
     <file>Assets/Plugins/Android/com.squareup.okio.okio-1.15.0.jar</file>
     <file>Assets/Plugins/Android/com.squareup.retrofit2.converter-gson-2.5.0.jar</file>
     <file>Assets/Plugins/Android/com.squareup.retrofit2.retrofit-2.5.0.jar</file>
-    <file>Assets/Plugins/Android/ir.tapsell.sdk.tapsell-sdk-unity-4.5.0.aar</file>
+    <file>Assets/Plugins/Android/ir.tapsell.sdk.tapsell-sdk-unity-4.6.2.aar</file>
   </files>
   <settings>
     <setting name="androidAbis" value="armeabi-v7a" />
     <setting name="bundleId" value="ir.tapsell.unity.sample.androidemd2019" />
     <setting name="explodeAars" value="True" />
     <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradlePropertiesTemplateEnabled" value="False" />
     <setting name="gradleTemplateEnabled" value="False" />
     <setting name="installAndroidPackages" value="True" />
     <setting name="localMavenRepoDir" value="Assets/GeneratedLocalRepo" />

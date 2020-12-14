@@ -49,10 +49,9 @@ apply plugin: 'com.android.library'
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'ir.tapsell.sdk:tapsell-sdk-unity:4.5.0'
 // Android Resolver Dependencies Start
     implementation 'androidx.appcompat:appcompat:1.0.2' // Packages/ir.tapsell.unity.android-plugin/Editor/TapsellDependencies.xml:6
-    implementation 'ir.tapsell.sdk:tapsell-sdk-unity:4.5.0' // Packages/ir.tapsell.unity.android-plugin/Editor/TapsellDependencies.xml:7
+    implementation 'ir.tapsell.sdk:tapsell-sdk-unity:4.6.2' // Packages/ir.tapsell.unity.android-plugin/Editor/TapsellDependencies.xml:7
 // Android Resolver Dependencies End
 **DEPS**}
 
